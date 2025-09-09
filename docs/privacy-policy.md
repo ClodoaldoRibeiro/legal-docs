@@ -29,4 +29,4 @@ Se o aplicativo for desinstalado, todos os dados serão apagados.
 Podemos atualizar esta política de tempos em tempos. Sempre que houver mudanças relevantes, a versão atualizada estará disponível neste mesmo endereço.
 
 ## Contato
-Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: **[seu-email-aqui]**
+Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: **clodoaldoribeiro.eti@gmail.com**

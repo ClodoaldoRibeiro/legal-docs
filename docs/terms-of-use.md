@@ -19,4 +19,4 @@ A utilização do aplicativo está sujeita à [Política de Privacidade](privacy
 Podemos atualizar estes Termos de Uso a qualquer momento. A versão mais recente sempre estará disponível neste endereço.
 
 ## 5. Contato
-Para dúvidas ou solicitações, entre em contato pelo e-mail: **[seu-email-aqui]**
+Para dúvidas ou solicitações, entre em contato pelo e-mail: **clodoaldoribeiro.eti@gmail.com**
