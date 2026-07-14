@@ -48,8 +48,8 @@
 .legal-section h2 {
   margin-top: 0;
   margin-bottom: 0.6rem;
-  font-size: 1.55rem;
-  line-height: 1.15;
+  font-size: 1.35rem;
+  line-height: 1.25;
   font-weight: 600;
 }
 
@@ -60,9 +60,21 @@
 }
 
 .legal-section ul {
-  margin: 0.5rem 0 0;
-  padding-left: 1.4rem;
-  list-style-position: outside;
+  margin: 0.5rem 0 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.legal-section li {
+  position: relative;
+  padding-left: 1rem;
+}
+
+.legal-section li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .legal-section li + li {
@@ -71,7 +83,7 @@
 
 .legal-hero h1 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.75rem;
   line-height: 1.15;
 }
 
@@ -85,7 +97,7 @@
   }
 
   .legal-hero h1 {
-    font-size: 1.7rem;
+    font-size: 1.45rem;
   }
 
   .legal-subtitle {
@@ -97,6 +109,7 @@
   }
 
   .legal-section h2 {
-    font-size: 1.35rem;
+    font-size: 1.2rem;
+    line-height: 1.3;
   }
 }
