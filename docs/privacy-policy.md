@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: legal-document
 title: Política de Privacidade
 permalink: /privacy-policy/
 ---

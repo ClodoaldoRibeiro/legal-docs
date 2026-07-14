@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: legal-document
 title: Termos de Uso
 permalink: /terms-of-use/
 ---
@@ -37,10 +37,7 @@ permalink: /terms-of-use/
 
 <section class="legal-section">
   <h2>3. Privacidade</h2>
-  <p>
-    A utilização do aplicativo está sujeita à
-    <a href="/privacy-policy/">Política de Privacidade</a>.
-  </p>
+  <p>A utilização do aplicativo está sujeita à Política de Privacidade vigente do B Day.</p>
 </section>
 
 <section class="legal-section">
