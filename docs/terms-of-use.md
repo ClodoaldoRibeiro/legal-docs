@@ -5,7 +5,6 @@ permalink: /terms-of-use/
 ---
 
 <section class="legal-hero">
-  <p class="legal-badge">B Day</p>
   <h1>Termos de Uso</h1>
   <p class="legal-subtitle">Última atualização: 09/09/2025</p>
 </section>

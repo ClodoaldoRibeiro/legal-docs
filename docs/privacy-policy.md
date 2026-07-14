@@ -5,7 +5,6 @@ permalink: /privacy-policy/
 ---
 
 <section class="legal-hero">
-  <p class="legal-badge">B Day</p>
   <h1>Política de Privacidade</h1>
   <p class="legal-subtitle">Última atualização: 09/09/2025</p>
 </section>
